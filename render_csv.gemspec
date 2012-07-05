@@ -12,10 +12,6 @@ Gem::Specification.new do |s|
   s.date = %q{2011-07-30}
   s.description = %q{Adds a custom CSV renderer to Rails 3 applications}
   s.email = %q{github@lette.us}
-  s.extra_rdoc_files = [
-    "LICENSE.txt",
-    "README.rdoc"
-  ]
   s.files = [
     "lib/render_csv.rb",
     "lib/render_csv/extension.rb"
